@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.5664612
+  lightness: 0.2741936
+  brandStrength: 0.7096774
+  brandColors:
+    - '#FDFDF5'
+    - '#10230D'
+    - '#244E1E'
+    - '#80BD32'
+    - '#B5D980'
+  rhythmicContrast: 0.2927754
+typography_spectrum: 0.9050179
+name: ESOW
